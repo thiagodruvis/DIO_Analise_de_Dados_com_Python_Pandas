@@ -1,2 +1,2 @@
 # DIO_Analise_de_Dados_com_Python_Pandas
-Analise_de_Dados_com_Python_e_Pandas
+Analise de Dados com Python e Pandas
